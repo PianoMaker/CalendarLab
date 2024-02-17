@@ -1,0 +1,16 @@
+E:\G [docs]\C# learn\CalendarLab\bin\Debug\net8.0-windows\CalendarLab.exe
+E:\G [docs]\C# learn\CalendarLab\bin\Debug\net8.0-windows\CalendarLab.deps.json
+E:\G [docs]\C# learn\CalendarLab\bin\Debug\net8.0-windows\CalendarLab.runtimeconfig.json
+E:\G [docs]\C# learn\CalendarLab\bin\Debug\net8.0-windows\CalendarLab.dll
+E:\G [docs]\C# learn\CalendarLab\bin\Debug\net8.0-windows\CalendarLab.pdb
+E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\CalendarLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\CalendarLab.AssemblyInfoInputs.cache
+E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\CalendarLab.AssemblyInfo.cs
+E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\CalendarLab.csproj.CoreCompileInputs.cache
+E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\CalendarLab.dll
+E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\refint\CalendarLab.dll
+E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\CalendarLab.pdb
+E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\CalendarLab.genruntimeconfig.cache
+E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\ref\CalendarLab.dll
+E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\CalendarLab.Form1.resources
+E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\CalendarLab.csproj.GenerateResource.cache
