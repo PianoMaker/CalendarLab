@@ -14,3 +14,4 @@ E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\CalendarLab.genruntime
 E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\ref\CalendarLab.dll
 E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\CalendarLab.Form1.resources
 E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\CalendarLab.csproj.GenerateResource.cache
+E:\G [docs]\C# learn\CalendarLab\obj\Debug\net8.0-windows\CalendarLab.sourcelink.json
