@@ -17,7 +17,11 @@ namespace CalendarLab
         public Form1()
         {
             InitializeComponent();
-            ImportLabels(filepath);
+            try
+            {
+                ImportLabels(filepath);
+            }
+            catch (Exception ex) { MessageBox.Show("nothing to import"); }
         }
 
 
@@ -133,6 +137,7 @@ namespace CalendarLab
                 Beep(440, 1000);                
                 lbl.BackColor = Color.LightGray;
                 timer.Stop();
+                MessageBox.Show("Event: " + lbl.Text);
             };
 
             // Запускаємо таймер
